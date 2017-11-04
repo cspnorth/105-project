@@ -7,10 +7,12 @@ section p {
 	text-align: center;
 	color: #454545;
 }
-section h1 {
+section h1 { /* changed h1 from 454545 to purple 4d004d */
 	font: 32px 'Open Sans';
 	font-weight: bold;
+	color: #4d004d;
 }
 section p {
 	font: 16px 'Open Sans';
+	color: #454545;
 }
